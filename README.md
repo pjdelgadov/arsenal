@@ -32,6 +32,7 @@ This repository is a personal collection. I do not claim authorship of third-par
 | sqlmap | [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) |
 | PowerView / PowerUp / PowerUpSQL | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) |
 | sqlcmd | [Microsoft SQLCMD](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility) |
+| SharpDsqlcmd | [Flangvik/SharpDllProxy](https://github.com/Flangvik/SharpDllProxy) |
 
 Some binaries may be older builds or locally compiled variants. References to upstream projects do not imply that every included executable has been verified against an official release.
 
